@@ -1,5 +1,8 @@
 # Predictive Flight Delay Model & User Application
 
+![screenshot](https://github.com/user-attachments/assets/53147e45-f470-45e8-be99-9440b7c0dabc)
+
+
 #### *Instructions*
 1. Run **`python db_sample.py`** to unzip `full_data_flightdelays.csv.zip`, creating a database to store sampled
    
